@@ -91,13 +91,13 @@
                 </a>
                 <a href="tpo/index.php">
                     <div class="col-md-4 box-btn">
-                        <i class="fas fa-book-reader"></i>
+                        <i class="fas fa-user-shield"></i>
                             <h5>Traffic Police Officer</h5>
                     </div>
                 </a>    
                 <a href="admin/index.php">
                     <div class="col-md-4 box-btn">
-                        <i class="fas fa-user-shield"></i>
+                        <i class="fas fa-user-cog"></i>
                             <h5>Traffic Police Admin</h5>
                     </div>
                 </a>
