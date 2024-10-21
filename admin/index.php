@@ -5,9 +5,9 @@
     <title>Login | Traffic Police Admin</title>
     <!--Meta tags start-->
     <meta charset="UTF-8">
-    <meta name="description" content="Smart Traffic Fine Management System for Sri Lanka">
+    <meta name="description" content="Traffic Offence Management System for Central Province">
     <meta name="keywords" content="Traffic, Fine, System, Sri Lanka">
-    <meta name="author" content="Uva Wellassa University">
+    <meta name="author" content="Horizon Campus">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
     <!--Meta tags end-->
     <!--===============================================================================================-->
@@ -32,7 +32,7 @@
             <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
                 <div class="card card-signin my-5">
                     <div class="card-body animated fadeIn">
-                        <h1 class="card-icon"><i class="fas fa-user-shield"></i></h1>
+                        <h1 class="card-icon"><i class="fas fa-user-cog"></i></h1>
                         <h5 class="card-title text-center">Traffic Police Admin Log In</h5>
                         <!--Warning msg start-->
                         <?php if (isset($_GET['error'])) { ?>

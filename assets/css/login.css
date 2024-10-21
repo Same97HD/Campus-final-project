@@ -1,5 +1,5 @@
 body {
-    background: #083e80;
+    background: #0b6d97;
     overflow-x: hidden;
     
 }
@@ -11,13 +11,13 @@ a, a:hover,a:visited, a:focus {
 .card-signin {
     border: 0;
     border-radius: 1rem;
-    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.5rem 1rem 0 rgba(15, 138, 82, 0.1);
 }
 
 .card-icon {
     font-size: 5.5rem;
     text-align: center;
-    color: #00587a;
+    color: #212628;
 }
 
 .card-signin .card-title {
@@ -78,12 +78,12 @@ a, a:hover,a:visited, a:focus {
 
 
 .btn {
-    background-color: #00587a;
-    color: #fbfbf7;
+    background-color: #0a87aa;
+    color: #fbf7f7;
 }
 
 .btn:hover {
-    background-color: #008891;
+    background-color: #02a3d0;
 }
 
 .forget-pw {
