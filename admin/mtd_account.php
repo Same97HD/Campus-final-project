@@ -135,7 +135,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
                     <div class="card-body p-lg-5">
 
                         <!--Edit profile Email goes here-->
-                        <form action="mtd_account_action_email" method="POST">
+                        <form action="mtd_account_action_email.php" method="POST">
 							<h4>Change MTD Email Address</h4>
 							<div class="form-row">
 								<div class="form-group col-md-9">
@@ -150,7 +150,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
                         <span class="row m-3"></span>
  
                         <!--Edit profile Password goes here-->
-                        <form action="mtd_account_action_password" method="POST">
+                        <form action="mtd_account_action_password.php" method="POST">
 							<h4 class="mt-5">Change MTD Password</h4>
 							<div class="form-row">								
 								<div class="form-group col-md-4">

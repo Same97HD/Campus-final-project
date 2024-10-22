@@ -209,8 +209,8 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email']) && isset($_SESSION
                         <p>
                             <i class="fas fa-warehouse"></i>
                         </p>
-                        <h3 class="counter">432</h3>
-                        <p class="dashcount-name">Total Police Station</p>
+                        <h3 class="counter">10</h3>
+                        <p class="dashcount-name">Total Police Station in Central Province</p>
                     </div>
                 </div>
                 <!--Sixth count box end-->

@@ -10,7 +10,7 @@
             </a>
         </li>
         <li class="topnav-item">
-            <img src="../assets/img/logo_text.svg" alt="STFMS logo" class="logo logo-light">
+            <img src="../assets/img/Hero.png" alt="TOMS logo" class="logo logo-light">
         </li>
     </ul>
     <!-- end topnav left -->
