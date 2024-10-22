@@ -107,7 +107,7 @@
                         </ul>
                     </div>
                     <div class="footer-col">
-                        <img class="footer-logo" src="assets/img/footer_logo.svg">
+                        <img class="footer-logo" src="assets/img/hero.png">
                     </div>
                 </div>
             </div>
