@@ -13,7 +13,7 @@
     <!--Meta tags end-->
 
     <!--Favicon start-->
-    <link rel="icon" type="image/png" href="assets/img/logo_3.png">
+    <link rel="icon" type="image/png" href="assets/img/Hero.png">
     <!--Favicon end-->
 
 
@@ -164,7 +164,8 @@
                         </ul>
                     </div>
                     <div class="footer-col">
-                        <img class="footer-logo" src="assets/img/footer_logo.svg">
+                        <img class="footer-logo" src="assets/img/Hero.png">
+                        <p><Bold>Traffic Offence</Bold></p>
                     </div>
                 </div>
             </div>

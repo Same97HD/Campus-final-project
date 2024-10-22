@@ -11,13 +11,13 @@
     <title>Forget Password | Traffic Police Admin</title>
     <!--Meta tags start-->
     <meta charset="UTF-8">
-    <meta name="description" content="Smart Traffic Fine Management System for Sri Lanka">
+    <meta name="description" content="Traffic Offence Management System for Central Province">
     <meta name="keywords" content="Traffic, Fine, System, Sri Lanka">
-    <meta name="author" content="Uva Wellassa University">
+    <meta name="author" content="Horizon Campus">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
     <!--Meta tags end-->
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="../assets/img/logo.png">
+    <link rel="icon" type="image/png" href="../assets/img/Hero.png">
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="../assets/vendors/bootstrap/bootstrap.min.css">
     <!--===============================================================================================-->
@@ -49,7 +49,7 @@
 						<button type="button" class="close" data-dismiss="alert">&times;</button>
 					</div>
 				<?php } ?>
-                        <form class="form-signin" action="forgot-password_action" method="POST" autocomplete="off">
+                        <form class="form-signin" action="forgot-password_action.php" method="POST" autocomplete="off">
                             <div class="form-label-group">
                                 <input type="email" id="inputEmail" class="form-control" name="email" placeholder="Email address">
                             </div>

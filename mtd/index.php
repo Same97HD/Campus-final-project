@@ -5,13 +5,13 @@
     <title>Login | Motor Traffic Department</title>
     <!--Meta tags start-->
     <meta charset="UTF-8">
-    <meta name="description" content="Smart Traffic Fine Management System for Sri Lanka">
+    <meta name="description" content="Traffic Offnce Management System for Central Province ">
     <meta name="keywords" content="Traffic, Fine, System, Sri Lanka">
-    <meta name="author" content="Uva Wellassa University">
+    <meta name="author" content="Horizon Campus">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
     <!--Meta tags end-->
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="../assets/img/logo.png">
+    <link rel="icon" type="image/png" href="../assets/img/Hero.png">
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="../assets/vendors/bootstrap/bootstrap.min.css">
     <!--===============================================================================================-->

@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
     <!--Meta tags end-->
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="../assets/img/logo.png">
+    <link rel="icon" type="image/png" href="../assets/img/Hero.png">
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="../assets/vendors/bootstrap/bootstrap.min.css">
     <!--===============================================================================================-->

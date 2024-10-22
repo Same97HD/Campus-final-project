@@ -121,7 +121,7 @@ if (isset($_SESSION['police_id']) && isset($_SESSION['officer_email']) && isset(
             <span class="row m-3"></span>
 
             <!--Edit profile includes goes here-->
-            <form action="profile_action" method="POST">
+            <form action="profile_action.php" method="POST">
             <h4 class="mt-5">Change your Password</h4>
             <div class="form-row">
                 <div class="form-group col-md-4">
