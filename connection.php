@@ -3,7 +3,7 @@
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpassword = "";
-$dbname = "stfms";
+$dbname = "toms_db";
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname);
 
