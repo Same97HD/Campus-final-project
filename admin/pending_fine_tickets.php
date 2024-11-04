@@ -229,7 +229,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
 			   if(did != '')  
 			   {  
 					$.ajax({  
-						 url:"paid_fine_tickets_view_modal",  
+						 url:"paid_fine_tickets_view_modal.php",  
 						 method:"POST",  
 						 data:{did:did},  
 						 success:function(data){  
