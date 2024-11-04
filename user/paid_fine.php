@@ -122,7 +122,7 @@ if (isset($_SESSION['license_id']) && isset($_SESSION['driver_email']) && isset(
 			   if(did != '')  
 			   {  
 					$.ajax({  
-						 url:"paid_fine_view_modal",  
+						 url:"paid_fine_view_modal.php",  
 						 method:"POST",  
 						 data:{did:did},  
 						 success:function(data){  

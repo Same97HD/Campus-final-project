@@ -359,7 +359,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
       $(document).on('click', '.edit_data', function(){  
            var did = $(this).attr("id");  
            $.ajax({  
-                url:"view_all_drivers_edit_modal_formdata",  
+                url:"view_all_drivers_edit_modal_formdata.php",  
                 method:"POST",  
                 data:{did:did},  
                 dataType:"json",  
@@ -397,7 +397,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
            else  
            { 
                 $.ajax({  
-                     url:"view_all_drivers_edit_modal",  
+                     url:"view_all_drivers_edit_modal.php",  
                      method:"POST",  
                      data:$('#insert_form').serialize(),  
                      beforeSend:function(){  
@@ -421,7 +421,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['admin_email'])) {
 			   if(did != '')  
 			   {  
 					$.ajax({  
-						 url:"view_all_drivers_view_modal",  
+						 url:"view_all_drivers_view_modal.php",  
 						 method:"POST",  
 						 data:{did:did},  
 						 success:function(data){  
